@@ -1,44 +1,38 @@
 # 👋 Hi, I'm Kanaka Putra Agung Wicaksono  
 
-💻 I'm passionate about **Backend Development** and **Cybersecurity**.  
-🚀 Always learning, building, and securing systems to be more reliable and safe.  
+💻 Passionate about **Backend Development** & **Cybersecurity**  
+🚀 Always learning, building, and securing systems to be more reliable and safe  
 
 ---
 
-## 🔥 About Me  
+## 💫 About Me  
 - 🌱 Currently learning **Backend Engineering** (Node.js, Laravel, Go) and diving deeper into **Cybersecurity**  
-- 👯 Looking to collaborate on backend projects or security-related research  
+- 👯 Open to collaborate on backend projects or security-related research  
 - 🔒 Interested in **web security, penetration testing, and secure system design**  
 - 📚 Lifelong learner who loves exploring new technologies  
 
 ---
 
-## 🛠️ Tech Stack  
-**Languages & Frameworks**  
-- Python | PHP (Laravel) | JavaScript (Node.js, Express.js) | Go  
+## 🌐 Connect With Me  
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kaaa_3535_29615)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kaaaiiiyy)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanakawicaksono@gmail.com)  
 
-**Database & Tools**  
-- MySQL | PostgreSQL | MongoDB | Redis  
+---
 
-**Cybersecurity Tools**  
-- Burp Suite | Wireshark | Metasploit | Nmap | Kali Linux  
-
-**Other**  
-- Git & GitHub | Docker | Linux  
+## 💻 Tech Stack  
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)  
 
 ---
 
 ## 📊 GitHub Stats  
-![Kanaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanakaPutra&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KanakaPutra&layout=compact&theme=tokyonight)  
-
----
-
-## 🌐 Connect With Me  
-- 📧 Email: [kanakawicaksono1506@gmail.com](mailto:kanakawicaksono1506@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/kanakaputra](https://linkedin.com/in/kanakaputra)  
-- 📸 Instagram: [instagram.com/kanakaputra](https://www.instagram.com/kaaaiiiyy?igsh=MWZkb3BpaWZqZnludA==)  
+![](https://github-readme-stats.vercel.app/api?username=KanakaPutra&theme=aura&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=KanakaPutra&theme=aura&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KanakaPutra&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
 ---
 
